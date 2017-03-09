@@ -1,0 +1,9 @@
+{
+  "name": "boost-crc",
+  "dependencies": {
+    "boost-array": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-integer": "1.63.0",
+    "boost-mpl": "1.63.0"
+  }
+}
